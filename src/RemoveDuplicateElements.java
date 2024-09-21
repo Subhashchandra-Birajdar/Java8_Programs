@@ -11,6 +11,7 @@ public class RemoveDuplicateElements {
                 .distinct() // Remove duplicates
                 .collect(Collectors.toList()); // Collect to a List
 
+
         // Print the distinct elements
         distinctList.forEach(System.out::println);
     }
