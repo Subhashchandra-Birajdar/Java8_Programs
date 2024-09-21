@@ -16,3 +16,15 @@ public class FrequencyOfEachCharInString {
                 System.out.println(Character+" :"+count));
     }
 }
+
+/* Output :
+a :3
+r :1
+b :1
+c :1
+s :2
+d :1
+u :1
+h :3
+n :1
+ */
