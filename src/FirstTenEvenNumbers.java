@@ -8,3 +8,16 @@ public class FirstTenEvenNumbers {
                 .forEach(System.out::println); // Print each even number
     }
 }
+/* Output :
+First 10 even numbers:
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+ */
