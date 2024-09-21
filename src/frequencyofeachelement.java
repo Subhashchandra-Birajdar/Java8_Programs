@@ -14,3 +14,7 @@ public class frequencyofeachelement {
         System.out.println(stationeryCountMap);
     }
 }
+
+/* Output :
+{Pen=2, Stapler=1, Pencil=2, Note Book=2, Eraser=1}
+ */
