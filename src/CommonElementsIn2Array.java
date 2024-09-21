@@ -37,3 +37,13 @@ public class CommonElementsIn2Array {
                 .forEach(System.out::println); // Print the common elements
     }
 }
+
+/* Output :
+Common elements: [4, 5]
+Common elements:
+4
+5
+Common elements:
+4
+5
+ */
