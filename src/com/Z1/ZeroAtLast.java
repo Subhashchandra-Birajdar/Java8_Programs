@@ -2,7 +2,10 @@ package com.Z1;
 import java.util.Arrays;
 
 public class ZeroAtLast {
-	     public static void m1(int[] arr){
+
+	// array zero at last :[1, 2, 2, 3, 2, 1, 9, 2, 0, 0, 0, 0]
+	
+		public static void m1(int[] arr){
 	         int nonZeroIndex = 0;
 	         for(int i=0;i<arr.length;i++){
 	             if(arr[i]!=0){
