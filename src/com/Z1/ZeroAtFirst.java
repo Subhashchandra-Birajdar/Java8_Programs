@@ -3,6 +3,8 @@ package com.Z1;
 import java.util.Arrays;
 
 public class ZeroAtFirst {
+	
+	// Output : array zero at first :[0, 0, 0, 0, 1, 2, 2, 3, 2, 1, 9, 2]
 
 	public static void m1(int[] arr) {
 		int nonZeroIndex = arr.length - 1;
