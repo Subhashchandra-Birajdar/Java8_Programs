@@ -21,3 +21,10 @@ public class SortString {
 		System.out.println("The descending order is :"+desc);
 	}
 }
+
+//Output :
+/*
+ The ascending order is :[Apple, Bannana, Mango, grapes]
+The descending order is :[grapes, Mango, Bannana, Apple] 
+ */
+ 
