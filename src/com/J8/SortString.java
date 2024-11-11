@@ -10,8 +10,8 @@ public class SortString {
 		
 		// ascending or natural order
 		List<String> list = fruits.stream()
-								.sorted()
-								.toList();
+						.sorted()
+						.toList();
 		System.out.println("The ascending order is :"+list);
 		
 		// descending order is
